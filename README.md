@@ -2,6 +2,8 @@
 
 Ever forgotten where you've been on the bus? Worry no further with Get Snapper Balance! And all this without entering a password. Just enter a card number and a CSV.
 
+See the presentation here --> https://docs.google.com/presentation/d/1T8KictZybdOLU_0ER96j4-8EdvlBmGsOVw8Zse55lcM/edit?usp=sharing
+
 update_snapper_data.py
 - Pulls Snapper card data from Snapper's API
 - Stores the data as GeoJSON for later
