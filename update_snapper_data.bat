@@ -1,0 +1,1 @@
+"C:\Users\angus\OneDrive\Documents\Scripting\python\get_snapper_balance\.venv\Scripts\activate.bat" && python "C:\Users\angus\OneDrive\Documents\Scripting\python\get_snapper_balance\update_snapper_data.py"

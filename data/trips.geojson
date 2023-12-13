@@ -1,0 +1,3701 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-04 15:22:06",
+                "amountCents": 75,
+                "balanceAfterCents": 798,
+                "cardSequenceNumber": 105,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 49,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748700.7817000002,
+                    5428090.9924
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-04 15:04:01",
+                "amountCents": 0,
+                "balanceAfterCents": 873,
+                "cardSequenceNumber": 104,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 49,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay at Hunter Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748719.9984999998,
+                    5427889.9996
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-04 13:45:18",
+                "amountCents": 75,
+                "balanceAfterCents": 873,
+                "cardSequenceNumber": 103,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 48,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Willis Street at Grand Arcade",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-04 13:29:35",
+                "amountCents": 0,
+                "balanceAfterCents": 948,
+                "cardSequenceNumber": 102,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 48,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-03 13:19:48",
+                "amountCents": 75,
+                "balanceAfterCents": 948,
+                "cardSequenceNumber": 101,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 47,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1749029.9977000002,
+                    5427200.0
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-03 13:02:45",
+                "amountCents": 0,
+                "balanceAfterCents": 1023,
+                "cardSequenceNumber": 100,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 47,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Courtenay Place at Courtenay Central",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748670.0022999998,
+                    5428209.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-03 10:49:15",
+                "amountCents": 75,
+                "balanceAfterCents": 1023,
+                "cardSequenceNumber": 99,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 46,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay at Cable Car Lane",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-03 10:33:38",
+                "amountCents": 0,
+                "balanceAfterCents": 1098,
+                "cardSequenceNumber": 98,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 46,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-02 12:39:13",
+                "amountCents": 75,
+                "balanceAfterCents": 1098,
+                "cardSequenceNumber": 97,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 45,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-02 12:26:50",
+                "amountCents": 0,
+                "balanceAfterCents": 1173,
+                "cardSequenceNumber": 96,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 45,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748719.9984999998,
+                    5427889.9996
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-02 06:31:56",
+                "amountCents": 75,
+                "balanceAfterCents": 1173,
+                "cardSequenceNumber": 95,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 44,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Willis Street at Grand Arcade",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-02 06:14:50",
+                "amountCents": 0,
+                "balanceAfterCents": 1248,
+                "cardSequenceNumber": 94,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 44,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-01 15:41:32",
+                "amountCents": 151,
+                "balanceAfterCents": 1248,
+                "cardSequenceNumber": 93,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 43,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-01 15:17:33",
+                "amountCents": 0,
+                "balanceAfterCents": 1399,
+                "cardSequenceNumber": 92,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 43,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748670.0022999998,
+                    5428209.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-01 06:27:24",
+                "amountCents": 75,
+                "balanceAfterCents": 1399,
+                "cardSequenceNumber": 91,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 42,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay at Cable Car Lane",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-01 06:14:10",
+                "amountCents": 0,
+                "balanceAfterCents": 1474,
+                "cardSequenceNumber": 90,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 42,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-05-31 18:37:28",
+                "amountCents": 151,
+                "balanceAfterCents": 1474,
+                "cardSequenceNumber": 89,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 41,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-05-31 18:26:19",
+                "amountCents": 0,
+                "balanceAfterCents": 1625,
+                "cardSequenceNumber": 88,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 41,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748700.0022,
+                    5428350.0
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-05-31 06:39:31",
+                "amountCents": 75,
+                "balanceAfterCents": 1625,
+                "cardSequenceNumber": 87,
+                "routeNumber": "12",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 40,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Central - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-05-31 06:24:50",
+                "amountCents": 0,
+                "balanceAfterCents": 1700,
+                "cardSequenceNumber": 86,
+                "routeNumber": "12",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 40,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-08 11:51:40",
+                "amountCents": 46,
+                "balanceAfterCents": 706,
+                "cardSequenceNumber": 109,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 51,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1749899.9967,
+                    5424609.9999
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-08 11:44:05",
+                "amountCents": 0,
+                "balanceAfterCents": 752,
+                "cardSequenceNumber": 108,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 51,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Crawford Road at Kilbirnie Tennis Club",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1749960.0043000001,
+                    5424640.0005
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-08 11:12:49",
+                "amountCents": 46,
+                "balanceAfterCents": 752,
+                "cardSequenceNumber": 107,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 50,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Crawford Road at Duncan Terrace",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-08 11:05:49",
+                "amountCents": 0,
+                "balanceAfterCents": 798,
+                "cardSequenceNumber": 106,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 50,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1749232.034,
+                    5427096.123
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-09 19:39:39",
+                "amountCents": 75,
+                "balanceAfterCents": 631,
+                "cardSequenceNumber": 111,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 52,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Courtenay Place - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-09 19:33:15",
+                "amountCents": 0,
+                "balanceAfterCents": 706,
+                "cardSequenceNumber": 110,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 52,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1746889.9995999997,
+                    5427930.0001
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-10 10:17:54",
+                "amountCents": 150,
+                "balanceAfterCents": 4481,
+                "cardSequenceNumber": 115,
+                "routeNumber": "21",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 53,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Zealandia - Birdwood Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748739.9992000004,
+                    5427130.0001
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-10 10:05:38",
+                "amountCents": 0,
+                "balanceAfterCents": 4631,
+                "cardSequenceNumber": 114,
+                "routeNumber": "21",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 53,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Ghuznee Street at Cuba Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 12:45:14",
+                "amountCents": 75,
+                "balanceAfterCents": 3578,
+                "cardSequenceNumber": 133,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 62,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 12:26:19",
+                "amountCents": 0,
+                "balanceAfterCents": 3653,
+                "cardSequenceNumber": 132,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 62,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 06:50:21",
+                "amountCents": 75,
+                "balanceAfterCents": 3653,
+                "cardSequenceNumber": 131,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 61,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 06:35:09",
+                "amountCents": 0,
+                "balanceAfterCents": 3728,
+                "cardSequenceNumber": 130,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 61,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-14 16:41:55",
+                "amountCents": 151,
+                "balanceAfterCents": 3728,
+                "cardSequenceNumber": 129,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 60,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-14 16:15:18",
+                "amountCents": 0,
+                "balanceAfterCents": 3879,
+                "cardSequenceNumber": 128,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 60,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-14 06:54:02",
+                "amountCents": 75,
+                "balanceAfterCents": 3879,
+                "cardSequenceNumber": 127,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 59,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-14 06:36:06",
+                "amountCents": 0,
+                "balanceAfterCents": 3954,
+                "cardSequenceNumber": 126,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 59,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-13 15:49:47",
+                "amountCents": 151,
+                "balanceAfterCents": 3954,
+                "cardSequenceNumber": 125,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 58,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748700.7817000002,
+                    5428090.9924
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-13 15:30:10",
+                "amountCents": 0,
+                "balanceAfterCents": 4105,
+                "cardSequenceNumber": 124,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 58,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay at Hunter Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-13 09:24:28",
+                "amountCents": 75,
+                "balanceAfterCents": 4105,
+                "cardSequenceNumber": 123,
+                "routeNumber": "29",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 57,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-13 09:06:46",
+                "amountCents": 0,
+                "balanceAfterCents": 4180,
+                "cardSequenceNumber": 122,
+                "routeNumber": "29",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 57,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-12 16:02:40",
+                "amountCents": 151,
+                "balanceAfterCents": 4180,
+                "cardSequenceNumber": 121,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 56,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-12 15:42:42",
+                "amountCents": 0,
+                "balanceAfterCents": 4331,
+                "cardSequenceNumber": 120,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 56,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-12 06:53:45",
+                "amountCents": 75,
+                "balanceAfterCents": 4331,
+                "cardSequenceNumber": 119,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 55,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-12 06:36:33",
+                "amountCents": 0,
+                "balanceAfterCents": 4406,
+                "cardSequenceNumber": 118,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 55,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1749232.034,
+                    5427096.123
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-10 19:27:59",
+                "amountCents": 75,
+                "balanceAfterCents": 4406,
+                "cardSequenceNumber": 117,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 54,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Courtenay Place - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-10 19:20:45",
+                "amountCents": 0,
+                "balanceAfterCents": 4481,
+                "cardSequenceNumber": 116,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 54,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-16 18:58:12",
+                "amountCents": 75,
+                "balanceAfterCents": 3251,
+                "cardSequenceNumber": 141,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 65,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-16 18:42:54",
+                "amountCents": 0,
+                "balanceAfterCents": 3326,
+                "cardSequenceNumber": 140,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 65,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748719.9984999998,
+                    5427889.9996
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-16 16:01:49",
+                "amountCents": 151,
+                "balanceAfterCents": 3326,
+                "cardSequenceNumber": 139,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 64,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Willis Street at Grand Arcade",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-16 15:43:03",
+                "amountCents": 0,
+                "balanceAfterCents": 3477,
+                "cardSequenceNumber": 138,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 64,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 22:14:04",
+                "amountCents": 26,
+                "balanceAfterCents": 3477,
+                "cardSequenceNumber": 137,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 4,
+                "journeySequenceNumber": 63,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 22:02:05",
+                "amountCents": 0,
+                "balanceAfterCents": 3503,
+                "cardSequenceNumber": 136,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 3,
+                "journeySequenceNumber": 63,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748799.9985999996,
+                    5427369.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 21:33:04",
+                "amountCents": 75,
+                "balanceAfterCents": 3503,
+                "cardSequenceNumber": 135,
+                "routeNumber": "12",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 63,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-15 21:24:34",
+                "amountCents": 0,
+                "balanceAfterCents": 3578,
+                "cardSequenceNumber": 134,
+                "routeNumber": "12",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 63,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-23 15:08:12",
+                "amountCents": 75,
+                "balanceAfterCents": 2273,
+                "cardSequenceNumber": 159,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 74,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-23 14:53:47",
+                "amountCents": 0,
+                "balanceAfterCents": 2348,
+                "cardSequenceNumber": 158,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 74,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748670.0022999998,
+                    5428209.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-23 11:03:24",
+                "amountCents": 75,
+                "balanceAfterCents": 2348,
+                "cardSequenceNumber": 157,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 73,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay at Cable Car Lane",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-23 10:51:10",
+                "amountCents": 0,
+                "balanceAfterCents": 2423,
+                "cardSequenceNumber": 156,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 73,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-22 18:47:25",
+                "amountCents": 75,
+                "balanceAfterCents": 2423,
+                "cardSequenceNumber": 155,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 72,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-22 18:34:22",
+                "amountCents": 0,
+                "balanceAfterCents": 2498,
+                "cardSequenceNumber": 154,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 72,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748799.9985999996,
+                    5427369.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-22 16:24:07",
+                "amountCents": 151,
+                "balanceAfterCents": 2498,
+                "cardSequenceNumber": 153,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 71,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-22 16:09:37",
+                "amountCents": 0,
+                "balanceAfterCents": 2649,
+                "cardSequenceNumber": 152,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 71,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-20 16:00:30",
+                "amountCents": 151,
+                "balanceAfterCents": 2649,
+                "cardSequenceNumber": 151,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 70,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-20 15:42:48",
+                "amountCents": 0,
+                "balanceAfterCents": 2800,
+                "cardSequenceNumber": 150,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 70,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.7739000004,
+                    5428651.4264
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-20 06:59:32",
+                "amountCents": 75,
+                "balanceAfterCents": 2800,
+                "cardSequenceNumber": 149,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 69,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-20 06:39:33",
+                "amountCents": 0,
+                "balanceAfterCents": 2875,
+                "cardSequenceNumber": 148,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 69,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-19 15:38:27",
+                "amountCents": 151,
+                "balanceAfterCents": 2875,
+                "cardSequenceNumber": 147,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 68,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-19 15:15:30",
+                "amountCents": 0,
+                "balanceAfterCents": 3026,
+                "cardSequenceNumber": 146,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 68,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.7739000004,
+                    5428651.4264
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-19 06:58:56",
+                "amountCents": 75,
+                "balanceAfterCents": 3026,
+                "cardSequenceNumber": 145,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 67,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-19 06:39:38",
+                "amountCents": 0,
+                "balanceAfterCents": 3101,
+                "cardSequenceNumber": 144,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 67,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748799.9985999996,
+                    5427369.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-18 10:01:54",
+                "amountCents": 150,
+                "balanceAfterCents": 3101,
+                "cardSequenceNumber": 143,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 66,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-18 09:51:16",
+                "amountCents": 0,
+                "balanceAfterCents": 3251,
+                "cardSequenceNumber": 142,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 66,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-29 16:12:59",
+                "amountCents": 151,
+                "balanceAfterCents": 1294,
+                "cardSequenceNumber": 177,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 83,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-29 15:49:24",
+                "amountCents": 0,
+                "balanceAfterCents": 1445,
+                "cardSequenceNumber": 176,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 83,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-29 06:48:08",
+                "amountCents": 75,
+                "balanceAfterCents": 1445,
+                "cardSequenceNumber": 175,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 82,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-29 06:34:02",
+                "amountCents": 0,
+                "balanceAfterCents": 1520,
+                "cardSequenceNumber": 174,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 82,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-28 15:46:16",
+                "amountCents": 151,
+                "balanceAfterCents": 1520,
+                "cardSequenceNumber": 173,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 81,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-28 15:20:52",
+                "amountCents": 0,
+                "balanceAfterCents": 1671,
+                "cardSequenceNumber": 172,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 81,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-28 07:03:29",
+                "amountCents": 75,
+                "balanceAfterCents": 1671,
+                "cardSequenceNumber": 171,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 80,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-28 06:47:39",
+                "amountCents": 0,
+                "balanceAfterCents": 1746,
+                "cardSequenceNumber": 170,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 80,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-27 17:01:46",
+                "amountCents": 151,
+                "balanceAfterCents": 1746,
+                "cardSequenceNumber": 169,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 79,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-27 16:32:01",
+                "amountCents": 0,
+                "balanceAfterCents": 1897,
+                "cardSequenceNumber": 168,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 79,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-27 07:00:19",
+                "amountCents": 75,
+                "balanceAfterCents": 1897,
+                "cardSequenceNumber": 167,
+                "routeNumber": "12",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 78,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-27 06:44:32",
+                "amountCents": 0,
+                "balanceAfterCents": 1972,
+                "cardSequenceNumber": 166,
+                "routeNumber": "12",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 78,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-26 16:07:18",
+                "amountCents": 151,
+                "balanceAfterCents": 1972,
+                "cardSequenceNumber": 165,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 77,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-26 15:55:18",
+                "amountCents": 0,
+                "balanceAfterCents": 2123,
+                "cardSequenceNumber": 164,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 77,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-26 06:49:53",
+                "amountCents": 75,
+                "balanceAfterCents": 2123,
+                "cardSequenceNumber": 163,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 76,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-26 06:33:45",
+                "amountCents": 0,
+                "balanceAfterCents": 2198,
+                "cardSequenceNumber": 162,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 76,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748586.5384,
+                    5426446.1812
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-24 22:22:42",
+                "amountCents": 75,
+                "balanceAfterCents": 2198,
+                "cardSequenceNumber": 161,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 75,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Taranaki Street (near 274)",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-06-24 22:18:37",
+                "amountCents": 0,
+                "balanceAfterCents": 2273,
+                "cardSequenceNumber": 160,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 75,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-01 14:07:51",
+                "amountCents": 375,
+                "balanceAfterCents": 844,
+                "cardSequenceNumber": 180,
+                "routeNumber": "",
+                "tagType": "ride",
+                "vehicleType": "Cable Car",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 85,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-01 11:57:55",
+                "amountCents": 75,
+                "balanceAfterCents": 1219,
+                "cardSequenceNumber": 179,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 84,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-01 11:36:23",
+                "amountCents": 0,
+                "balanceAfterCents": 1294,
+                "cardSequenceNumber": 178,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 84,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-15 12:45:29",
+                "amountCents": 75,
+                "balanceAfterCents": 846,
+                "cardSequenceNumber": 221,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 6,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-15 12:27:14",
+                "amountCents": 0,
+                "balanceAfterCents": 921,
+                "cardSequenceNumber": 220,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 6,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-15 11:39:22",
+                "amountCents": 75,
+                "balanceAfterCents": 921,
+                "cardSequenceNumber": 219,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 5,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-15 11:25:48",
+                "amountCents": 0,
+                "balanceAfterCents": 996,
+                "cardSequenceNumber": 218,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 5,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 21:43:54",
+                "amountCents": 75,
+                "balanceAfterCents": 996,
+                "cardSequenceNumber": 217,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 4,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 21:32:57",
+                "amountCents": 0,
+                "balanceAfterCents": 1071,
+                "cardSequenceNumber": 216,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 4,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 17:40:39",
+                "amountCents": 151,
+                "balanceAfterCents": 1071,
+                "cardSequenceNumber": 215,
+                "routeNumber": "1",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 3,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 17:25:30",
+                "amountCents": 0,
+                "balanceAfterCents": 1222,
+                "cardSequenceNumber": 214,
+                "routeNumber": "1",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 3,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748799.9985999996,
+                    5427369.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 13:29:58",
+                "amountCents": 92,
+                "balanceAfterCents": 1222,
+                "cardSequenceNumber": 213,
+                "routeNumber": "23",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 2,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748984.5618000003,
+                    5426218.4826
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-13 13:20:23",
+                "amountCents": 0,
+                "balanceAfterCents": 1314,
+                "cardSequenceNumber": 212,
+                "routeNumber": "23",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 2,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Adelaide Road at Basin Reserve (near 12)",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-10 16:27:31",
+                "amountCents": 151,
+                "balanceAfterCents": 1314,
+                "cardSequenceNumber": 211,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 1,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748778.7840999998,
+                    5428648.445
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-10 16:04:06",
+                "amountCents": 0,
+                "balanceAfterCents": 1465,
+                "cardSequenceNumber": 210,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 1,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop D",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748733.2763999999,
+                    5428625.6441
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-10 06:59:55",
+                "amountCents": 75,
+                "balanceAfterCents": 1465,
+                "cardSequenceNumber": 209,
+                "routeNumber": "12",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 99,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-10 06:45:19",
+                "amountCents": 0,
+                "balanceAfterCents": 1540,
+                "cardSequenceNumber": 208,
+                "routeNumber": "12",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 99,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748699.9988000002,
+                    5426729.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-09 19:45:28",
+                "amountCents": 75,
+                "balanceAfterCents": 1540,
+                "cardSequenceNumber": 207,
+                "routeNumber": "18",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 98,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Taranaki Street at Abel Smith Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-09 19:40:27",
+                "amountCents": 0,
+                "balanceAfterCents": 1615,
+                "cardSequenceNumber": 206,
+                "routeNumber": "18",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 98,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748860.0034999996,
+                    5425439.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-08 14:12:22",
+                "amountCents": 75,
+                "balanceAfterCents": 1615,
+                "cardSequenceNumber": 205,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 97,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750839.9996999996,
+                    5423449.9998
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-08 13:53:24",
+                "amountCents": 0,
+                "balanceAfterCents": 1690,
+                "cardSequenceNumber": 204,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 97,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Airport Retail Park",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750749.9963999996,
+                    5424280.0006
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-08 12:20:52",
+                "amountCents": 75,
+                "balanceAfterCents": 1690,
+                "cardSequenceNumber": 203,
+                "routeNumber": "18",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 96,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Rongotai Road at Troy Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748875.3602,
+                    5425458.6623
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-08 12:06:15",
+                "amountCents": 0,
+                "balanceAfterCents": 1765,
+                "cardSequenceNumber": 202,
+                "routeNumber": "18",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 96,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Wellington Hospital - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748799.9985999996,
+                    5427369.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-04 21:03:26",
+                "amountCents": 75,
+                "balanceAfterCents": 4024,
+                "cardSequenceNumber": 244,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 17,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750283.7167999996,
+                    5424462.9921
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-04 20:44:21",
+                "amountCents": 0,
+                "balanceAfterCents": 4099,
+                "cardSequenceNumber": 243,
+                "routeNumber": "3",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 17,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Kilbirnie - Stop C",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750749.9963999996,
+                    5424280.0006
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-04 20:10:22",
+                "amountCents": 101,
+                "balanceAfterCents": 4099,
+                "cardSequenceNumber": 242,
+                "routeNumber": "2",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 16,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Rongotai Road at Troy Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-04 19:51:27",
+                "amountCents": 0,
+                "balanceAfterCents": 4200,
+                "cardSequenceNumber": 241,
+                "routeNumber": "2",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 16,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-03 20:24:02",
+                "amountCents": 75,
+                "balanceAfterCents": 4200,
+                "cardSequenceNumber": 240,
+                "routeNumber": "14",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 15,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750316.9364999998,
+                    5424429.2037
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-03 19:59:09",
+                "amountCents": 0,
+                "balanceAfterCents": 4275,
+                "cardSequenceNumber": 239,
+                "routeNumber": "14",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 15,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Kilbirnie - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1750295.5444999998,
+                    5424477.876
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-03 19:14:16",
+                "amountCents": 75,
+                "balanceAfterCents": 4275,
+                "cardSequenceNumber": 238,
+                "routeNumber": "2",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 14,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Kilbirnie - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748759.9996999996,
+                    5427419.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-08-03 18:55:27",
+                "amountCents": 0,
+                "balanceAfterCents": 4350,
+                "cardSequenceNumber": 237,
+                "routeNumber": "2",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 14,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Cuba Street - Stop B",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-30 17:53:47",
+                "amountCents": 75,
+                "balanceAfterCents": 350,
+                "cardSequenceNumber": 235,
+                "routeNumber": "27",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 13,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748106.6709000003,
+                    5424891.2539
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-30 17:38:44",
+                "amountCents": 0,
+                "balanceAfterCents": 425,
+                "cardSequenceNumber": 234,
+                "routeNumber": "27",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 13,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "McColl Street at Krull Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1747790.6517000003,
+                    5424890.3538
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-30 14:29:44",
+                "amountCents": 75,
+                "balanceAfterCents": 425,
+                "cardSequenceNumber": 233,
+                "routeNumber": "7",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 12,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Mills Road opposite Vennell Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748507.7885999996,
+                    5427187.8621
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-30 14:13:16",
+                "amountCents": 0,
+                "balanceAfterCents": 500,
+                "cardSequenceNumber": 232,
+                "routeNumber": "7",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 12,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Victoria Street at Ghuznee Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748473.2706000004,
+                    5427347.5063
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-25 21:59:57",
+                "amountCents": 75,
+                "balanceAfterCents": 500,
+                "cardSequenceNumber": 231,
+                "routeNumber": "7",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 11,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Willis Street (near 190)",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1747639.9998000003,
+                    5425849.9997
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-25 21:52:18",
+                "amountCents": 0,
+                "balanceAfterCents": 575,
+                "cardSequenceNumber": 230,
+                "routeNumber": "7",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 11,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Brooklyn Village - Cleveland Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1747619.9981000004,
+                    5425880.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-25 19:18:21",
+                "amountCents": 75,
+                "balanceAfterCents": 575,
+                "cardSequenceNumber": 229,
+                "routeNumber": "7",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 10,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Ohiro Road at Cleveland Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748507.7885999996,
+                    5427187.8621
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-25 19:11:29",
+                "amountCents": 0,
+                "balanceAfterCents": 650,
+                "cardSequenceNumber": 228,
+                "routeNumber": "7",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 10,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Victoria Street at Ghuznee Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748790.0010000002,
+                    5428680.0
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-23 16:25:24",
+                "amountCents": 46,
+                "balanceAfterCents": 650,
+                "cardSequenceNumber": 227,
+                "routeNumber": "2",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 9,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Lambton Quay North - Stop A",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-23 16:18:23",
+                "amountCents": 0,
+                "balanceAfterCents": 696,
+                "cardSequenceNumber": 226,
+                "routeNumber": "2",
+                "tagType": "ride",
+                "vehicleType": "Bus",
+                "journeyTagCount": 1,
+                "journeySequenceNumber": 9,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1748619.9979999997,
+                    5427580.0003
+                ]
+            },
+            "properties": {
+                "transactionType": "TransportTransaction",
+                "transactionDateTime": "2023-07-22 16:38:31",
+                "amountCents": 75,
+                "balanceAfterCents": 696,
+                "cardSequenceNumber": 225,
+                "routeNumber": "3",
+                "tagType": "alight",
+                "vehicleType": "Bus",
+                "journeyTagCount": 2,
+                "journeySequenceNumber": 8,
+                "penaltyAmountCollectedCents": 0,
+                "iouAppliedCents": 0,
+                "iouRepaidCents": 0,
+                "stopName": "Manners Street at Willis Street",
+                "passUsed": "None",
+                "card_number": 1010000011267390
+            }
+        }
+    ]
+}
